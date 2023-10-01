@@ -1,0 +1,39 @@
+/* -----TAG SELECTORS----- */
+
+
+h1 {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 1.5;
+    margin: 15% auto;
+}
+
+/* -----CLASS SELECTORS----- */
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+.btn {
+    margin: 5px;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+}
+
+.nav-item {
+    padding: 6%;
+}
+
+.rotate {
+    transform: rotate(30deg);
+}
+
+/* -----ID SELECTORS----- */
+
+#title {
+    background-color: #ff4c68
+}
